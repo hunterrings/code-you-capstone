@@ -42,7 +42,7 @@ DATA DICTIONARY:
         description: The video's description.
         publishedDate: The date and time when the video was published (in a machine-readable format).
         publishedText: The date and time when the video was published (in a human-readable format).
-        videoId: The unique identifier for the video.
+        videoId: The unique igit dentifier for the video.
         videoUrl: The URL of the video.
         channelName: The name of the channel that published the video.
         channelId: The unique identifier for the channel.
@@ -70,3 +70,9 @@ TECHNOLOGIES USED:
 # List all key tools/libraries used and explain their role in the project
 #   Example: “Pandas was used to clean and manipulate the dataset to identify trends in customer behavior.”
 #   Example: “The project was developed in Jupyter Notebooks to allow for clean, narrative-driven presentation of both code and results.”
+    Python
+        matplotlib
+    pandas
+    Jupyter
+    Kaggle - Pulic API
+

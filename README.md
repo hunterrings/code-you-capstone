@@ -62,6 +62,15 @@ PROJECT SETUP:
 # You should test this process by cloning your repo into a new folder or onto a different machine
 # Have others test your project and test theirs. 
 
+Welcome to my capstone project. 
+
+Here are the steps for setting everying up and running a demonstration. 
+
+1. Create a new virtual environment in Python by using the 'venv' command. Ensure that the correct Python interpreter is specified on your PATH. 
+
+2. Download the two datasets linked above. I did this by using the Kaggle CLI tool. This requires that you install the Kaggle Python package ('pip install kaggle'). You will also need to download an authentication key from their website. The Kaggle website has additional information about where the kaggle.json file shoudl be located depending on your machine. These downloads are zipped and will need to be extracted.
+
+
 PROJECT OVERVIEW:
 # A description of what the user should expect from the project once it's running
 # Assume the reviewer has no coding background, so keep language clear and simple

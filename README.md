@@ -79,3 +79,8 @@ TECHNOLOGIES USED:
     Jupyter
     Kaggle - Pulic API
 
+
+Challenges:
+One thing that was particularly tricky was the way that the data I found for YouTube trending was organized. 
+I had to come up with a script to detect the encoding of the .csv files - they were in Macintosh Roman which I understand is not a common encoding scheme.
+I also had to use a script to collate the many .csv files included in that package (a separate .csv for each calendar day!)

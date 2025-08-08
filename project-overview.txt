@@ -1,0 +1,12 @@
+Spotify and YouTube 2024 - Project Overview
+Hunter Rings
+
+I was curious about whether there were any significant differences or trends in the number of Spotify streams for popular songs compared to their YouTube views.
+
+After reviewing the data, it does seem like Spotify is generally a more popular platform for music. There are a few artists that stick out as far as doing much better
+on one platform or another, but there are also many who do well in both (The Weeknd appeared in the top 3 for Spotify and YouTube, for example).
+
+i would have liked to have done some more complex or advanced statistical modeling based on this data, but the cleaning and formatting process took much longer than
+I anticipated. I hope that what I have so far here is at least somewhat interesting, but in any case I think this would be a solid starting point for furhter analysis.
+
+August 8, 2025
